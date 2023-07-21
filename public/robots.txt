@@ -1,0 +1,9 @@
+User-agent: *
+
+# Allow the main page and specific sections you want to be indexed
+Allow: /$
+Allow: /about$
+Allow: /resume$
+Allow: /projects$
+Allow: /contact$
+Allow: /blog$
