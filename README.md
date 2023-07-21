@@ -1,7 +1,7 @@
 ![MathSpectra Logo](logo.png)
 
 MathSpectra is an open-source web application for visualizing linear equations and exploring mathematical concepts in three-dimensional space. This repository contains the source code for the MathSpectra project.
-
+## Pull request Ajaa
 ## Overview
 
 MathSpectra provides an interactive platform that allows users to enter linear equations, view their graphical representations in 3D, and explore the solutions visually. It aims to help students, educators, and enthusiasts gain a deeper understanding of linear algebra and related mathematical concepts.
