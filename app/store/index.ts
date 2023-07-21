@@ -6,7 +6,7 @@ interface Store {
 }
 
 const useStore = create<Store>((set) => ({
-  systemType: "R2",
+  systemType: "R3",
   setSystemType: (systemType) => set({ systemType }),
 }));
 

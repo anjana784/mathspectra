@@ -4,9 +4,9 @@ import Axis from "../../Axis";
 const R3: FC = () => {
   return (
     <>
-      <Axis axis="x" color="#FF0000" />
+      <Axis axis="x" color="hotpink" />
       <Axis axis="y" color="#00FF00" />
-      <Axis axis="z" color="#0000FF" />
+      <Axis axis="z" color="yellow" />
     </>
   );
 };
