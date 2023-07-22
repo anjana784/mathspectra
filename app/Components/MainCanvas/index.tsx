@@ -15,12 +15,6 @@ const MainCanvas: FC = () => {
   return (
     <main className="w-full h-full">
       <Canvas>
-        <PerspectiveCamera makeDefault position={[-3, 2, 13]} />
-        {/* <OrthographicCamera makeDefault position={[0, 0, 1]} /> */}
-        <OrbitControls
-          enableDamping={false}
-          enabled={systemType === "R3" ? true : false}
-        />
         <ambientLight />
         <pointLight position={[10, 10, 10]} />
         <Scene />
