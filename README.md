@@ -42,11 +42,17 @@ The application should now be running on `http://localhost:3000`.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to MathSpectra, please check out our [contribution guidelines](CONTRIBUTING.md) for more information on how to get involved.
+We welcome contributions from the community to enhance MathSpectra and make it even more valuable for users. To contribute, please follow the guidelines in our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+**Please note:** When contributing, make sure not to use the `production` branch for your work. Instead, create a new branch based on the latest `main` branch and submit your pull requests from there. This ensures a smoother review process.
 
 ## Issues
 
 If you encounter any bugs, have feature requests, or would like to provide feedback, please open an issue on this repository. We appreciate your input and strive to make MathSpectra better with your help.
+
+## Configuration
+
+MathSpectra utilizes various environment variables and a blog section. It is important to set up the necessary environment variables to ensure the proper functioning of the application.
 
 ## License
 
